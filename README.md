@@ -1,5 +1,7 @@
 # Low-Altitude Aerial Object Detection with YOLOv8
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8-111F68) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 Detecting **humans, bicycles and vehicles** in low-altitude drone imagery with YOLOv8.
 Project for the *Machine Vision* course, University of Passau (2026).
 
