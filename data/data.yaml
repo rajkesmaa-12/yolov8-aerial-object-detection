@@ -1,0 +1,8 @@
+# Roboflow YOLOv8 export layout (paths relative to this file)
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Human
+  1: Bicycle
+  2: Vehicle
